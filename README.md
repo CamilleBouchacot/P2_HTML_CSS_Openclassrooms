@@ -1,1 +1,1 @@
-# Openclassroom-Formation-developpeur-web-javascript-P42
+Project 2 : HTML ET CSS
